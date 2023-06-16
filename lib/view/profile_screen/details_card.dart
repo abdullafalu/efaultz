@@ -14,7 +14,7 @@ Widget detailsCard({context,required String count,required String title,width}) 
       .white
       .width(width)
       .roundedSM
-      .height(80)
+      .height(70)
       .padding(const EdgeInsets.all(4))
       .make();
 }
